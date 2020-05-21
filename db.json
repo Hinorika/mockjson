@@ -1,12 +1,29 @@
-[
-  {
-    "id": 1,
-    "email": "b@b.c"
-    "password": "Ducen123"
-  },
-  {
-   "id": 2,
-   "email": "a@a.c"
-   "password": "Duc3n123"
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "asd@a.c,
+      "password": "Ducen123"
+    },
+    {
+      "id": 2,
+      "email": "awe@a.c,
+      "password": "Duc3n123"
+    },
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
